@@ -1,0 +1,79 @@
+:root {
+  --vp-c-brand-1: #225f77;
+  --vp-c-brand-2: #1c4f63;
+  --vp-c-brand-3: #173f4f;
+  --vp-c-brand-soft: rgba(34, 95, 119, 0.16);
+  --vp-c-accent: #c86b3c;
+  --vp-home-hero-name-color: transparent;
+  --vp-home-hero-name-background: linear-gradient(135deg, #173f4f 0%, #225f77 48%, #c86b3c 100%);
+  --vp-home-hero-image-background-image:
+    radial-gradient(circle at 20% 20%, rgba(200, 107, 60, 0.28), transparent 32%),
+    radial-gradient(circle at 80% 30%, rgba(34, 95, 119, 0.24), transparent 34%),
+    linear-gradient(145deg, rgba(23, 63, 79, 0.12), rgba(200, 107, 60, 0.16));
+  --vp-home-hero-image-filter: blur(42px);
+  --vp-font-family-base: "IBM Plex Sans", "Avenir Next", "Segoe UI", sans-serif;
+  --vp-font-family-mono: "IBM Plex Mono", "SFMono-Regular", "Cascadia Code", monospace;
+}
+
+.dark {
+  --vp-c-brand-1: #68adc8;
+  --vp-c-brand-2: #82bfd7;
+  --vp-c-brand-3: #9acddd;
+  --vp-c-brand-soft: rgba(104, 173, 200, 0.18);
+  --vp-home-hero-name-background: linear-gradient(135deg, #e8f0d5 0%, #68adc8 52%, #df8c5b 100%);
+}
+
+body {
+  background:
+    radial-gradient(circle at top, rgba(34, 95, 119, 0.06), transparent 35%),
+    linear-gradient(180deg, rgba(200, 107, 60, 0.04), transparent 30%);
+}
+
+.VPNavBarTitle .title {
+  letter-spacing: 0.02em;
+  font-weight: 700;
+}
+
+.VPDoc h1,
+.VPDoc h2,
+.VPDoc h3,
+.VPHero .name,
+.VPHero .text {
+  font-family: "Iowan Old Style", "Palatino Linotype", "Book Antiqua", Palatino, Georgia, serif;
+  letter-spacing: -0.02em;
+}
+
+.VPHero {
+  position: relative;
+}
+
+.VPHero::after {
+  content: "";
+  position: absolute;
+  inset: auto 8% -2rem 8%;
+  height: 1px;
+  background: linear-gradient(90deg, transparent, rgba(34, 95, 119, 0.25), transparent);
+}
+
+.VPFeature {
+  border: 1px solid rgba(34, 95, 119, 0.14);
+  background:
+    linear-gradient(180deg, rgba(255, 255, 255, 0.92), rgba(250, 247, 242, 0.9));
+  box-shadow: 0 16px 50px rgba(23, 63, 79, 0.08);
+}
+
+.dark .VPFeature {
+  border-color: rgba(104, 173, 200, 0.18);
+  background:
+    linear-gradient(180deg, rgba(21, 28, 34, 0.95), rgba(16, 22, 27, 0.95));
+  box-shadow: 0 18px 60px rgba(0, 0, 0, 0.34);
+}
+
+.vp-doc a {
+  text-underline-offset: 0.18em;
+}
+
+.vp-doc blockquote {
+  border-left: 3px solid var(--vp-c-brand-1);
+  background: rgba(34, 95, 119, 0.05);
+}

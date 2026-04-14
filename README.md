@@ -22,6 +22,7 @@ This repository is designed for interactive study with Codex. It has two goals:
 - `docs/meta/source-map.md`: where each part of the course is sourced from
 - `docs/syllabus.md`: full course outline and study plan
 - `docs/modules/`: lesson-by-lesson course material
+- `docs/.vitepress/`: local documentation web app configuration
 - `exercises/`: hands-on work for the running commerce-engine anchor project
 
 ## Source Policy
@@ -66,3 +67,15 @@ For each module:
 The repository is ready for active study of the full Pass 1 course.
 
 See [docs/meta/ready-checklist.md](docs/meta/ready-checklist.md).
+
+## Local Web App
+
+This repository also includes a locally runnable VitePress app that renders the
+course Markdown as a navigable study site.
+
+```sh
+pnpm install
+pnpm docs:dev
+```
+
+Then open the local URL shown in the terminal.
