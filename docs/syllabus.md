@@ -213,6 +213,15 @@ used as a continuity device, not as the definition of the course.
 These capstones must be taught with explicit caution when source confidence is
 weaker.
 
+## What Is Ready Right Now
+
+The repository is currently ready for the full Pass 1 study flow:
+
+- Module 0 through Module 12 all have lesson notes
+- each Pass 1 module has source pointers, key ideas, an exercise, and checkpoint questions
+- the course has a source-confidence policy and non-assumption rule
+- the course is designed for interactive study with Codex between modules
+
 ## Recommended Pace
 
 - Main pace: 5 to 7 hours per week

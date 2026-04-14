@@ -22,3 +22,8 @@ Planned exercise packs:
 - `10-http`
 - `11-sql-batching`
 - `12-testing-observability`
+
+Current status:
+
+- pass-by-pass exercise prompts already exist inside the module documents
+- standalone exercise-pack files are still planned, but not required to start

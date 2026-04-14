@@ -39,14 +39,20 @@ The repository currently contains:
 
 - the initial personalized syllabus
 - the source map and confidence policy
-- the first module on the core Effect mental model
+- the full Pass 1 module set
 - the running project frame for a commerce-engine learning track
 - the initial GitHub publication at `https://github.com/hubacekj/effect-course`
+- a `Start Here` guide and readiness checklist
 
 ## How To Use
 
-Start with [docs/modules/00-how-to-use-this-course.md](docs/modules/00-how-to-use-this-course.md),
-then continue to [docs/syllabus.md](docs/syllabus.md).
+Start with [docs/start-here.md](docs/start-here.md).
+
+Then continue through:
+
+1. [docs/modules/00-how-to-use-this-course.md](docs/modules/00-how-to-use-this-course.md)
+2. [docs/syllabus.md](docs/syllabus.md)
+3. [docs/modules/01-effect-mental-model.md](docs/modules/01-effect-mental-model.md)
 
 For each module:
 
@@ -54,3 +60,9 @@ For each module:
 2. Follow the linked source-reading assignments.
 3. Complete the exercise.
 4. Return to Codex for an interactive checkpoint and the next module.
+
+## Readiness
+
+The repository is ready for active study of the full Pass 1 course.
+
+See [docs/meta/ready-checklist.md](docs/meta/ready-checklist.md).

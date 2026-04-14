@@ -82,10 +82,10 @@ These should be treated as optional capstones, not as core course material.
 
 ## Next Steps
 
-1. Expand the module set beyond Module 1.
-2. Add checkpoint questions and answer keys per module.
-3. Add source-linked exercise packs.
-4. Add an interaction protocol for live tutoring sessions.
+1. Expand the deep-dive pass beyond outlines.
+2. Add answer keys or tutor-only review guides per module.
+3. Add source-linked exercise packs as standalone files.
+4. Refine the running project into an explicit progressive build path.
 
 ## Publication Log
 
@@ -94,3 +94,12 @@ These should be treated as optional capstones, not as core course material.
 - Committed initial content.
 - Created GitHub repository `hubacekj/effect-course`.
 - Pushed `main` successfully.
+
+## Build Log: Course Readiness
+
+- Added `Start Here` guide.
+- Added study session template.
+- Added readiness checklist.
+- Added Pass 1 modules 2 through 12.
+- Marked course as ready for active study, while keeping deep-dive expansion as
+  future work.
