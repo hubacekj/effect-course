@@ -101,5 +101,6 @@ These should be treated as optional capstones, not as core course material.
 - Added study session template.
 - Added readiness checklist.
 - Added Pass 1 modules 2 through 12.
+- Added explicit running-project architecture principles.
 - Marked course as ready for active study, while keeping deep-dive expansion as
   future work.

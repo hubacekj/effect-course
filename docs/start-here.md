@@ -6,6 +6,7 @@ If you want to begin studying immediately, use this order:
 2. Read [docs/modules/00-how-to-use-this-course.md](modules/00-how-to-use-this-course.md)
 3. Read [docs/syllabus.md](syllabus.md)
 4. Start with [docs/modules/01-effect-mental-model.md](modules/01-effect-mental-model.md)
+5. Keep [docs/meta/project-principles.md](meta/project-principles.md) open as the architecture policy for the running project
 
 ## Study Mode
 

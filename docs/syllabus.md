@@ -20,6 +20,9 @@ The course is split into two passes:
 The running project is a small commerce-engine core with admin features. It is
 used as a continuity device, not as the definition of the course.
 
+The architecture policy for that project is documented in
+`docs/meta/project-principles.md`.
+
 ## Pass 1: Concept First
 
 ### Module 0. How to use this course
