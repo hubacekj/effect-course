@@ -3,6 +3,7 @@
 Linked module:
 
 - [Module 9 · Streams](/modules/09-streams)
+- [Solution 9 · Streams](/solutions/09-streams)
 
 Source tag: `Stable concept`
 

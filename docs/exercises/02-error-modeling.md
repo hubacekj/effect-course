@@ -3,6 +3,7 @@
 Linked module:
 
 - [Module 2 · Errors As A Design Tool](/modules/02-errors-as-a-design-tool)
+- [Solution 2 · Error Modeling](/solutions/02-error-modeling)
 
 Source tag: `Stable concept`
 

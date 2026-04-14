@@ -28,3 +28,6 @@ For each exercise pack:
 2. Complete the required tasks before asking for hints.
 3. Compare your solution to the linked `effect-smol` sources.
 4. Ask Codex for review, critique, and a readiness check.
+
+If you want to compare with a worked answer afterward, continue to
+[Solution Packs](/solutions/).

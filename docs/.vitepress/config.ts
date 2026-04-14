@@ -16,6 +16,7 @@ export default defineConfig({
       { text: "Syllabus", link: "/syllabus" },
       { text: "Modules", link: "/modules/01-effect-mental-model" },
       { text: "Exercises", link: "/exercises/" },
+      { text: "Solutions", link: "/solutions/" },
       { text: "Project Principles", link: "/meta/project-principles" }
     ],
     search: {
@@ -55,6 +56,7 @@ export default defineConfig({
         collapsed: false,
         items: [
           { text: "Exercise Packs", link: "/exercises/" },
+          { text: "Solution Packs", link: "/solutions/" },
           { text: "Running Project Principles", link: "/meta/project-principles" },
           { text: "Source Map", link: "/meta/source-map" },
           { text: "Progress", link: "/meta/progress" },
@@ -79,6 +81,25 @@ export default defineConfig({
           { text: "Exercise 10 · HTTP And Framework Integration", link: "/exercises/10-http-and-framework-integration" },
           { text: "Exercise 11 · SQL And Batching", link: "/exercises/11-sql-and-batching" },
           { text: "Exercise 12 · Testing And Observability", link: "/exercises/12-testing-and-observability" }
+        ]
+      },
+      {
+        text: "Solutions",
+        collapsed: true,
+        items: [
+          { text: "Solution 0 · Study Setup", link: "/solutions/00-study-setup" },
+          { text: "Solution 1 · Core Effect Mental Model", link: "/solutions/01-core-effect-mental-model" },
+          { text: "Solution 2 · Error Modeling", link: "/solutions/02-error-modeling" },
+          { text: "Solution 3 · Services And Requirements", link: "/solutions/03-services-and-requirements" },
+          { text: "Solution 4 · Layers And Architecture", link: "/solutions/04-layers-and-architecture" },
+          { text: "Solution 5 · Resource Safety And Scopes", link: "/solutions/05-resource-safety-and-scopes" },
+          { text: "Solution 6 · Running Programs", link: "/solutions/06-running-programs" },
+          { text: "Solution 7 · Concurrency, Retries, Schedules, PubSub", link: "/solutions/07-concurrency-retries-schedules-pubsub" },
+          { text: "Solution 8 · Schema In Everyday Effect Code", link: "/solutions/08-schema-in-everyday-effect-code" },
+          { text: "Solution 9 · Streams", link: "/solutions/09-streams" },
+          { text: "Solution 10 · HTTP And Framework Integration", link: "/solutions/10-http-and-framework-integration" },
+          { text: "Solution 11 · SQL And Batching", link: "/solutions/11-sql-and-batching" },
+          { text: "Solution 12 · Testing And Observability", link: "/solutions/12-testing-and-observability" }
         ]
       }
     ],

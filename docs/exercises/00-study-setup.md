@@ -3,6 +3,7 @@
 Linked module:
 
 - [Module 0 · How To Use This Course](/modules/00-how-to-use-this-course)
+- [Solution 0 · Study Setup And Workflow](/solutions/00-study-setup)
 
 Source tag: `Stable concept`
 

@@ -3,6 +3,7 @@
 Linked module:
 
 - [Module 11 · SQL And Batching](/modules/11-sql-and-batching)
+- [Solution 11 · SQL And Batching](/solutions/11-sql-and-batching)
 
 Source tag: batching `Stable concept`, SQL `v4 beta shape`
 

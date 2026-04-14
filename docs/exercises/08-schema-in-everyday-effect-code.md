@@ -3,6 +3,7 @@
 Linked module:
 
 - [Module 8 · Schema In Everyday Effect Code](/modules/08-schema-in-everyday-effect-code)
+- [Solution 8 · Schema In Everyday Effect Code](/solutions/08-schema-in-everyday-effect-code)
 
 Source tag: `Stable concept` with partial `v4 beta shape`
 

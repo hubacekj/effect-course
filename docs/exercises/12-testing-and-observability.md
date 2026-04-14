@@ -3,6 +3,7 @@
 Linked module:
 
 - [Module 12 · Testing And Observability](/modules/12-testing-and-observability)
+- [Solution 12 · Testing And Observability](/solutions/12-testing-and-observability)
 
 Source tag: testing `Stable concept`, observability `v4 beta shape`
 

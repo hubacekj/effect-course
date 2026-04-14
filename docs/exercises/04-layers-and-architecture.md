@@ -3,6 +3,7 @@
 Linked module:
 
 - [Module 4 · Layers And Architecture](/modules/04-layers-and-architecture)
+- [Solution 4 · Layers And Architecture](/solutions/04-layers-and-architecture)
 
 Source tag: `Stable concept`
 

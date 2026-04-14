@@ -3,6 +3,7 @@
 Linked module:
 
 - [Module 1 · The Core Effect Mental Model](/modules/01-effect-mental-model)
+- [Solution 1 · Core Effect Mental Model](/solutions/01-core-effect-mental-model)
 
 Source tag: `Stable concept`
 

@@ -3,6 +3,7 @@
 Linked module:
 
 - [Module 6 · Running Programs](/modules/06-running-programs)
+- [Solution 6 · Running Programs](/solutions/06-running-programs)
 
 Source tag: `Stable concept`
 

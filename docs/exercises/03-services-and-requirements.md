@@ -3,6 +3,7 @@
 Linked module:
 
 - [Module 3 · Services And Requirements](/modules/03-services-and-requirements)
+- [Solution 3 · Services And Requirements](/solutions/03-services-and-requirements)
 
 Source tag: `Stable concept`
 

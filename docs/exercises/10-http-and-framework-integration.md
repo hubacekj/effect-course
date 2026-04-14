@@ -3,6 +3,7 @@
 Linked module:
 
 - [Module 10 · HTTP And Framework Integration](/modules/10-http-and-framework-integration)
+- [Solution 10 · HTTP And Framework Integration](/solutions/10-http-and-framework-integration)
 
 Source tag: `v4 beta shape`
 

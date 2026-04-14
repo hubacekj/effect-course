@@ -3,6 +3,7 @@
 Linked module:
 
 - [Module 5 · Resource Safety And Scopes](/modules/05-resource-safety-and-scopes)
+- [Solution 5 · Resource Safety And Scopes](/solutions/05-resource-safety-and-scopes)
 
 Source tag: `Stable concept`
 

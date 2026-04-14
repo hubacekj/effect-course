@@ -3,6 +3,7 @@
 Linked module:
 
 - [Module 7 · Concurrency, Retries, Schedules, PubSub](/modules/07-concurrency-retries-schedules-pubsub)
+- [Solution 7 · Concurrency, Retries, Schedules, PubSub](/solutions/07-concurrency-retries-schedules-pubsub)
 
 Source tag: `Stable concept`
 
