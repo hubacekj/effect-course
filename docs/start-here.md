@@ -16,8 +16,9 @@ For each module:
 
 1. Read the module notes.
 2. Read the linked sources in `resources/effect-smol`.
-3. Attempt the exercise.
-4. Come back to Codex for a checkpoint.
+3. Open the matching exercise pack in `/exercises/`.
+4. Attempt the exercise.
+5. Come back to Codex for a checkpoint.
 
 ## Expectations
 

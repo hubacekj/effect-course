@@ -96,6 +96,10 @@ Answer for yourself:
 
 ## Exercise
 
+Detailed exercise pack:
+
+- [Exercise 9 · Streams](/exercises/09-streams)
+
 Design a stream pipeline that:
 
 1. reads NDJSON order events

@@ -86,6 +86,10 @@ Answer for yourself:
 
 ## Exercise
 
+Detailed exercise pack:
+
+- [Exercise 4 · Layers And Architecture](/exercises/04-layers-and-architecture)
+
 Create a paper architecture for:
 
 - `CatalogRepo`

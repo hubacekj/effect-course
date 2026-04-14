@@ -81,6 +81,10 @@ Answer for yourself:
 
 ## Exercise
 
+Detailed exercise pack:
+
+- [Exercise 12 · Testing And Observability](/exercises/12-testing-and-observability)
+
 Design:
 
 1. a test for a retrying checkout flow using virtual time

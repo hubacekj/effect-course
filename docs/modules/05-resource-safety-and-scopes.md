@@ -91,6 +91,10 @@ Answer for yourself:
 
 ## Exercise
 
+Detailed exercise pack:
+
+- [Exercise 5 · Resource Safety And Scopes](/exercises/05-resource-safety-and-scopes)
+
 Design two scoped resources:
 
 1. a `Mailer` backed by a transport that must be closed

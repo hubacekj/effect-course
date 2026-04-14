@@ -81,6 +81,10 @@ Answer for yourself:
 
 ## Exercise
 
+Detailed exercise pack:
+
+- [Exercise 6 · Running Programs](/exercises/06-running-programs)
+
 Sketch two entrypoint files:
 
 1. one that launches a long-running worker

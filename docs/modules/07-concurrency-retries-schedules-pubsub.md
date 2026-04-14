@@ -93,6 +93,10 @@ Answer for yourself:
 
 ## Exercise
 
+Detailed exercise pack:
+
+- [Exercise 7 · Concurrency, Retries, Schedules, PubSub](/exercises/07-concurrency-retries-schedules-pubsub)
+
 Design three flows:
 
 1. payment retry with exponential backoff

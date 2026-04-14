@@ -2,6 +2,10 @@
 
 Source tag: `Stable concept`
 
+Companion exercise pack:
+
+- [Exercise 0 · Study Setup And Workflow](/exercises/00-study-setup)
+
 ## Purpose
 
 This is not a static book. It is a working course repository plus an

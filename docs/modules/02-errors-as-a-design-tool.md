@@ -118,6 +118,10 @@ Answer for yourself:
 
 ## Exercise
 
+Detailed exercise pack:
+
+- [Exercise 2 · Error Modeling](/exercises/02-error-modeling)
+
 Define a checkout-domain error model with:
 
 1. standalone tagged errors for input and lookup failures

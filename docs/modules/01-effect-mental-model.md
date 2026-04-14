@@ -225,6 +225,10 @@ Answer for yourself:
 
 ## Exercise
 
+Detailed exercise pack:
+
+- [Exercise 1 · Core Effect Mental Model](/exercises/01-core-effect-mental-model)
+
 Implement these as Effect values or `Effect.fn` functions:
 
 1. `parseSku(input: string)`:

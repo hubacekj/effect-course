@@ -76,6 +76,10 @@ Answer for yourself:
 
 ## Exercise
 
+Detailed exercise pack:
+
+- [Exercise 11 · SQL And Batching](/exercises/11-sql-and-batching)
+
 Design a batched lookup flow for product IDs:
 
 1. one request type

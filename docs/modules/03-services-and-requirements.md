@@ -99,6 +99,10 @@ Answer for yourself:
 
 ## Exercise
 
+Detailed exercise pack:
+
+- [Exercise 3 · Services And Requirements](/exercises/03-services-and-requirements)
+
 Design the following as v4 services:
 
 1. `CatalogRepo` with `findBySku`

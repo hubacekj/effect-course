@@ -94,6 +94,10 @@ Optional source exploration:
 
 ## Exercise
 
+Detailed exercise pack:
+
+- [Exercise 8 · Schema In Everyday Effect Code](/exercises/08-schema-in-everyday-effect-code)
+
 Define Schema-based models for:
 
 1. `Money`

@@ -87,6 +87,10 @@ Answer for yourself:
 
 ## Exercise
 
+Detailed exercise pack:
+
+- [Exercise 10 · HTTP And Framework Integration](/exercises/10-http-and-framework-integration)
+
 Sketch:
 
 1. one admin endpoint implemented with an Effect service

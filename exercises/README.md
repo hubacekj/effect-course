@@ -25,5 +25,5 @@ Planned exercise packs:
 
 Current status:
 
-- pass-by-pass exercise prompts already exist inside the module documents
-- standalone exercise-pack files are still planned, but not required to start
+- standalone exercise-pack files now exist in `docs/exercises/`
+- the embedded prompts in module documents remain as short inline references
