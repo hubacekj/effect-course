@@ -41,6 +41,7 @@ The repository currently contains:
 - the source map and confidence policy
 - the first module on the core Effect mental model
 - the running project frame for a commerce-engine learning track
+- the initial GitHub publication at `https://github.com/hubacekj/effect-course`
 
 ## How To Use
 

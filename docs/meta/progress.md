@@ -2,10 +2,12 @@
 
 ## Status
 
-- State: in progress
+- State: in progress, published
 - Primary learner profile: advanced TypeScript, minimal FP theory, backend use
   cases as anchors, wants to learn Effect generally
 - Delivery mode: self-study materials plus interactive tutoring with Codex
+- GitHub repository: `https://github.com/hubacekj/effect-course`
+- Local repository path: `/Users/hubacek/learning/effect/effect-course`
 
 ## Constraints And Decisions
 
@@ -84,3 +86,11 @@ These should be treated as optional capstones, not as core course material.
 2. Add checkpoint questions and answer keys per module.
 3. Add source-linked exercise packs.
 4. Add an interaction protocol for live tutoring sessions.
+
+## Publication Log
+
+- Created local repository `effect-course`.
+- Wrote initial course materials and source-policy documents.
+- Committed initial content.
+- Created GitHub repository `hubacekj/effect-course`.
+- Pushed `main` successfully.
